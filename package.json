@@ -1,0 +1,25 @@
+{
+  "name": "demopug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hug0alons0/demoPug.git"
+  },
+  "author": "Adrian y Hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hug0alons0/demoPug/issues"
+  },
+  "homepage": "https://github.com/hug0alons0/demoPug#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.2"
+  }
+}
