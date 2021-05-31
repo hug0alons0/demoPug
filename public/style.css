@@ -11,3 +11,12 @@ h2{
 p{
     color: red;
 }
+
+div{
+    background-color: grey;
+}
+
+div.chart{
+    width: 70%;
+    background-color: white;
+}
